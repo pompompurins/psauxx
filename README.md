@@ -11,7 +11,7 @@
 
 <div align='left' style="display: flex; justify-content: space-between;">
 	<a href='#'>
-	<img src='https://img.shields.io/badge/Discord-Dev%237558-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=30&labelColor=000' alt='Discord = = = N..#5453'>
+	<img src=https://img.shields.io/badge/Discord-N..%235453-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=30&labelColor=000' alt='Discord = = = N..#5453'>
 	</a>
 </div>
 
