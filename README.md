@@ -50,5 +50,5 @@
 	
 </div>
 <hr>
-## Page Views
-<img src="https://komarev.com/ghpvc/?username=devloves&style=flat-square">
+
+<img src="https://komarev.com/ghpvc/?username=Proxysec&style=flat-square">
