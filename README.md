@@ -48,7 +48,7 @@
 		<img src='https://img.shields.io/badge/code-php-777BB4?logoWidth=30&labelColor=black&style=for-the-badge&logo=php' alt='PHP'>
 	</a><br><br>
 	<p>
-	<a href="https://github.com/AVS1508">
+	<a href="https://github.com/Proxysec">
   	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Proxysec&show_icons=true&theme=radical" />
   	<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Proxysec&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
