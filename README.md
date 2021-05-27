@@ -6,7 +6,7 @@
 	- backend dev <br>
 	- frontend dev (KINDA Bad)<br>
 	- Got no friends<br>
-	- py, js, html, c++ (learning), lua (learning), perl (semi good), rust (very bad)
+	- py, js, html, php, c++ (learning), lua (learning), perl (semi good), rust (very bad)
 <hr>
 	
 
