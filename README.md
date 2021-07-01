@@ -5,8 +5,6 @@
 <p align="middle"><b>🎩 Nano - N..<br>
 	Backend / Fontend Dev<br>
         I make tools to stop the chatter<br>
-	Dark Rabbit Founder<br>
-	discord.gg/5TnRPgTmHE<br>
         4e 2e 2e 23 30 39 30 34
 <hr>
 	
