@@ -8,7 +8,7 @@
         427477206920726174206D7920736F667477617265 <br> <br>
 	<a href="https://github.com/psauxx/">
     <img alt="Github" src="https://img.shields.io/github/followers/psauxx?style=for-the-badge&color=black&label=Follow%20Me&logoColor=0d1117&logo=github"></a>   
-	<img alt="Twitter" style="height: 30px;" src="https://img.shields.io/twitter/follow/IrisDevTeam?style=for-the-badge&color=black&label=Follow%20Me&logoColor=0d1117&logo=twitter"></img> 
+	<img alt="Twitter" style="height: 30px;" src="https://img.shields.io/twitter/follow/psauxx?style=for-the-badge&color=black&label=Follow%20Me&logoColor=0d1117&logo=twitter"></img> 
 <hr>
 	
 
