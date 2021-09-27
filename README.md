@@ -1,6 +1,6 @@
 
 <center>
-<p align="middle"><img align="middle" style="width: 10px;" src="https://imgur.com/xva0kra.png"> </img>
+<p align="middle"><img align="middle" src="https://imgur.com/xva0kra.png"> </img>
 <hr>
 <p align="middle"><b>🎩 Nano <br>
 	Fullstack Dev<br>
