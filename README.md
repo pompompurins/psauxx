@@ -13,7 +13,7 @@
 ```py
 
 
-lore@github
+psauxx@github
 ----------------
 
        OS  :  Arch Linux
