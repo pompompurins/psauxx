@@ -23,6 +23,7 @@ psauxx@github
       CPU  :  AMD FX(tm)-6300
     Alias  :  Nano
      Orgs  :  NeonNetworks
+Sexuality  :  Homosexual
 Languages  :  Python, javascript
   Discord  :  902015309848903682
   
